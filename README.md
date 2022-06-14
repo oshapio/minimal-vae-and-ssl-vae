@@ -2,7 +2,7 @@
 
 Minimal re-implementation of original VAE [1] and semi-supervised-VAE papers [2]; the former is included in the latter (i.e. the base VAE is dubbed as M1 in [2]).
 
-It includes experiments on synthetic (2D Gaussians and MNIST data.
+It includes experiments on synthetic (2D Gaussians) and MNIST data.
 
 ## M1 (Original VAE [1])
 
